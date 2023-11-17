@@ -15,3 +15,5 @@ del a
 #operadores de pertenencia
 # dato in dato = esta dentro de ? // not in = no esta 
 print("Eduardo" not in edad_que_tiene)
+
+
