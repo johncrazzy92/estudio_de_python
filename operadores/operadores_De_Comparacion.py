@@ -12,6 +12,6 @@ b = 10
 c = 15
 comp = a + b == c
 
-nombre = 'agusto' == 'agusto'
+nombre = 'agusto' == 'agusto' 
 
 print(nombre)
