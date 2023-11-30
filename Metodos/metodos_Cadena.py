@@ -13,10 +13,10 @@ cadena2 = "bueno chau"
 #resultado = cadena1.isnumeric()# si es numero devuelve true sino false
 #resultado = cadena1.isalpha()# si es alfanumerico devuelve true sino false ( no incluye espacios )
 #resultado = cadena1.count("a")# devuelve cantidad de coincidencias 
-#resultado = len(cadena1)#cuenta caracteres. es una funcion 
 #resultado = cadena1.startswith("h") # verifica que la cadena empieza con el dato que le demos
 #resultado = cadena1.endswith("l") # verifica que la cadena termine con el dato que le demos
 #resultado = cadena1.replace("que tal", "como estas")# reemplaza con lo que le pasemos uque coincida en la cadena original, por lo que le pasemos como segundo argumento.
+#resultado = len(cadena1)#cuenta caracteres. es una funcion 
 resultado = cadena1.split(" ") # separa en cadenas diferentes dentro de una lista, segun el valor que le pasemos. en este caso un espacio.
 
 

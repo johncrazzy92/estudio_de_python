@@ -14,6 +14,8 @@ number = [128,1, 5 , 6 , 8 ,125 , 468]
 number.sort(reverse=True)#ordena la lista - si tiene reverse true como parametro , ordeba al revez
 number.reverse()#la revierte, pero sin ordenarla .
 
-result = list.index("hola")
+result = list.index("hola")#busca y retorna el lugar del elemento igual al que se le pasa .
+
+#recordar que las tuplas no se pueden cambiar con nada de lo que se paso .
 
 print(result)

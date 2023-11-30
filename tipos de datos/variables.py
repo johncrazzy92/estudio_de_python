@@ -8,6 +8,7 @@ f = a + b
 
 # f formatea un tipo de dato a string - funciona como agregar a una cadena ${} en js
 edad_que_tiene = f"Eduardo tiene {f} años "
+edad_Que_No_Tengo = f"Yo no tengo {b} años de edad"
 
 #del se usa para eliminar variables
 del a
